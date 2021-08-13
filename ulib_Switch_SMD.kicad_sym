@@ -177,7 +177,10 @@
     (property "Mfr PN" "PTS526 SK15 SMTR2 LFS" (id 4) (at 0 -7.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "Tactile Pushbutton Switch 5.2x5.2 mm" (id 5) (at 0 0 0)
+    (property "ki_keywords" "PTS526 SK15 SMTR2 LFS Switch Tactile Button Pushbutton" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "Tactile Pushbutton Switch 5.2x5.2 mm" (id 6) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "Tactile_0_1"
