@@ -15,6 +15,9 @@
     (property "Mfr PN" "DNI" (id 4) (at 0 -10.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "ki_description" "Picorgrid Logo" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (symbol "Picogrid Logo_0_0"
       (polyline
         (pts
@@ -1498,6 +1501,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Mfr PN" "DNI" (id 4) (at 0 -12.7 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "Streetcat Logo" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "Streetcat Logo_0_0"
@@ -20499,7 +20505,7 @@
       )
     )
   )
-  (symbol "ulib_Logos:Trio Logo" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "ulib_Logos:Trio Logo" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "G" (id 0) (at 0 5.715 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -20513,6 +20519,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Mfr PN" "DNI" (id 4) (at 0 -7.62 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "Trio Logo" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "Trio Logo_0_0"

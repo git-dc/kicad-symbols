@@ -21,6 +21,9 @@
     (property "Current" "5mA" (id 6) (at -2.54 -7.62 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "ki_description" "Green LED, Itest = 5mA, Vf = 2.9V" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (symbol "GREEN_0_0"
       (text "K" (at -4.191 1.016 0)
         (effects (font (size 1.27 1.27)))
@@ -102,6 +105,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Current" "20mA" (id 6) (at 0 -7.62 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "Red LED, Itest = 20mA, Vf = 2.0V" (id 7) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "RED_0_0"

@@ -21,6 +21,9 @@
     (property "Current" "1A" (id 6) (at 2.54 -5.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
+    (property "ki_description" "100 Ohms at 100MHz Ferrite Bead" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (symbol "MFBW1V1608_0_1"
       (polyline
         (pts

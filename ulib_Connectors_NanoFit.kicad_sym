@@ -12,7 +12,7 @@
     (property "Datasheet" "https://www.molex.com/pdm_docs/sd/1054051116_sd.pdf" (id 3) (at 1.27 -36.195 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Mfr PN" "1054051116" (id 4) (at 0 -40.64 0)
+    (property "Mfr PN" "DNI" (id 4) (at 0 -40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Mfr Link" "https://www.molex.com/molex/products/part-detail/pcb_headers/1054051116" (id 5) (at 0 -38.1 0)
