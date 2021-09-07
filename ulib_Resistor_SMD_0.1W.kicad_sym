@@ -12,7 +12,7 @@
     (property "Datasheet" "https://page.venkel.com/hubfs/Resources/Datasheets/CR-Series.pdf" (id 3) (at 0 -17.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Mfr PN" "CR0603-10W-1003FT" (id 4) (at 1.905 -5.715 0)
+    (property "Mfr PN" "CR0603-16W-1003FT" (id 4) (at 1.905 -5.715 0)
       (effects (font (size 0.635 0.635)) (justify left))
     )
     (property "Power" "1/10W" (id 5) (at 1.905 -7.62 0)
