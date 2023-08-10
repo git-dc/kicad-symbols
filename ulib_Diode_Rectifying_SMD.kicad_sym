@@ -1,5 +1,5 @@
-(kicad_symbol_lib (version 20210619) (generator kicad_symbol_editor)
-  (symbol "ulib_Diode_Rectifying_SMD:B5819WS" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "B5819WS" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "D" (id 0) (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -12,7 +12,7 @@
     (property "Datasheet" "https://www.mccsemi.com/pdf/Products/B5817WS-B5819WS(SOD-323).PDF" (id 3) (at 0 -11.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Mfr PN" "B5817WS" (id 4) (at 0 -7.62 0)
+    (property "Mfr PN" "B5819WS" (id 4) (at 0 -7.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Voltage" "40V" (id 5) (at 0 -13.335 0)
@@ -46,6 +46,16 @@
     (symbol "B5819WS_0_1"
       (polyline
         (pts
+          (xy 0 0)
+          (xy 2.54 1.27)
+          (xy 2.54 -1.27)
+          (xy 0 0)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
           (xy -0.635 0.635)
           (xy -0.635 1.27)
           (xy 0 1.27)
@@ -53,20 +63,12 @@
           (xy 0.635 -1.27)
           (xy 0.635 -0.635)
         )
-        (stroke (width 0.2)) (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 0 0)
-          (xy 2.54 1.27)
-          (xy 2.54 -1.27)
-          (xy 0 0)
-        )
-        (stroke (width 0.1524)) (fill (type outline))
+        (stroke (width 0.2) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
   )
-  (symbol "ulib_Diode_Rectifying_SMD:SL1K" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "SL1K" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "D" (id 0) (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -97,14 +99,16 @@
           (xy -0.762 -1.016)
           (xy -0.762 1.016)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -0.762 0)
           (xy 0.762 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -113,7 +117,8 @@
           (xy 0.762 1.016)
           (xy 0.762 -1.016)
         )
-        (stroke (width 0.254)) (fill (type outline))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type outline))
       )
     )
     (symbol "SL1K_1_1"
