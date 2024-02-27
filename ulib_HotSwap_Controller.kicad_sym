@@ -1,6 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
   (symbol "MAX5903LBEUT" (in_bom yes) (on_board yes)
-<<<<<<< HEAD
     (property "Reference" "U" (at 0 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -46,7 +45,6 @@
         (number "6" (effects (font (size 1.27 1.27))))
       )
     )
-=======
     (property "Reference" "U" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -59,6 +57,5 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
->>>>>>> 9b0b3d440880a7e0401bc1ad8c7338380bf09b1b
   )
 )
