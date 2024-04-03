@@ -69,7 +69,7 @@
     (property "Reference" "U" (at 15.24 2.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "LTC4359" (at 2.54 -2.54 0)
+    (property "Value" "LTC4359" (at 3.81 -2.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_SO:MSOP-8_3x3mm_P0.65mm" (at -17.78 -25.4 0)
@@ -105,7 +105,7 @@
         (name "SRC" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
       )
-      (pin no_connect line (at -2.54 -7.62 90) (length 2.54) hide
+      (pin passive line (at -2.54 -7.62 90) (length 2.54)
         (name "NC" (effects (font (size 1.27 1.27))))
         (number "3" (effects (font (size 1.27 1.27))))
       )
@@ -121,7 +121,7 @@
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "6" (effects (font (size 1.27 1.27))))
       )
-      (pin no_connect line (at 2.54 -7.62 90) (length 2.54) hide
+      (pin passive line (at 2.54 -7.62 90) (length 2.54)
         (name "NC" (effects (font (size 1.27 1.27))))
         (number "7" (effects (font (size 1.27 1.27))))
       )
