@@ -603,7 +603,7 @@
         (stroke (width 0) (type default))
         (fill (type outline))
       )
-      (rectangle (start -2.54 -8.89) (end 20.32 -2.54)
+      (rectangle (start -2.54 -2.54) (end 20.32 -8.89)
         (stroke (width 0) (type default))
         (fill (type background))
       )
